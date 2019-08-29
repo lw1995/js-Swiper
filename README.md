@@ -1,14 +1,20 @@
 # js-Swiper轮播图插件
 [预览](https://lw1995.github.io/js-Swiper/)
+
 ### 先引入css文件swiper.css
+
 <pre>
   <link rel="stylesheet" type="text/css" href="css/swiper.css" />
 </pre>
+
 ### 然后再引入js文件swiper.js
+
 <pre>
   <script src="js/swiper.js" type="text/javascript" charset="utf-8"></script>
 </pre>
+
 ### JS代码：
+
 <pre>
                  <script type="text/javascript">
 			new Swiper({
@@ -21,7 +27,8 @@
                  </script>
 </pre>
 
-### HTML代码：	
+### HTML代码：
+
 <pre>
     <code>
         	<div class="swiper-container" id="swiper-container">
