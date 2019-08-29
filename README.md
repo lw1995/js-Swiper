@@ -2,11 +2,11 @@
 [预览](https://lw1995.github.io/js-Swiper/)
 ### 先引入css文件swiper.css
 <pre>
-<link rel="stylesheet" type="text/css" href="css/swiper.css" />
+  <link rel="stylesheet" type="text/css" href="css/swiper.css" />
 </pre>
 ### 然后再引入js文件swiper.js
 <pre>
-<script src="js/swiper.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/swiper.js" type="text/javascript" charset="utf-8"></script>
 </pre>
 ### JS代码：
 <pre>
