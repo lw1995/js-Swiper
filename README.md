@@ -1,5 +1,5 @@
-# js-Swiper
-
+# js-Swiper轮播图插件
+<a href="https://lw1995.github.io/js-Swiper/" target="_blank">预览</a>
 先引入css文件swiper.css
 
 然后再引入js文件swiper.js
