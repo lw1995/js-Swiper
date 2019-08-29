@@ -1,10 +1,16 @@
 # js-Swiper轮播图插件
 [预览](https://lw1995.github.io/js-Swiper/)
-先引入css文件swiper.css
-
+### 先引入css文件swiper.css
+<pre>
+<link rel="stylesheet" type="text/css" href="css/swiper.css" />
+</pre>
 ### 然后再引入js文件swiper.js
+<pre>
+<script src="js/swiper.js" type="text/javascript" charset="utf-8"></script>
+</pre>
 ### JS代码：
-<script type="text/javascript">
+<pre>
+                 <script type="text/javascript">
 			new Swiper({
 				width: 1200, //宽度
 				height: 500, //高度
@@ -12,10 +18,13 @@
 				showSwiperDots: true, //是否显示面板指示点
 				showSwiperBtn: true //是否显示导航按钮
 			});
-		</script>
+                 </script>
+</pre>
+
 ### HTML代码：	
 <pre>
-  <div class="swiper-container" id="swiper-container">
+    <code>
+        	<div class="swiper-container" id="swiper-container">
 			<div id="swiper-wrapper">
 				<a href="http://pic1.win4000.com/wallpaper/2019-08-26/5d63a0b14ad1c.jpg" target="_blank">
 					<img src="http://pic1.win4000.com/wallpaper/2019-08-26/5d63a0b14ad1c.jpg" />
@@ -36,6 +45,7 @@
 			<!-- 面板指示点 -->
 			<div id="swiper-dots"></div>
 		</div>
+    </code>
 </pre>
 
 
