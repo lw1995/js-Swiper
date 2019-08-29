@@ -1,9 +1,9 @@
 # js-Swiper
 
-先引入css文件
+先引入css文件swiper.css
 <link rel="stylesheet" type="text/css" href="css/swiper.css" />
 
-然后再引入js文件
+然后再引入js文件swiper.js
 	<script src="js/swiper.js" type="text/javascript" charset="utf-8"></script>
   
 		<script type="text/javascript">
