@@ -1,9 +1,9 @@
 # js-Swiper轮播图插件
 <div><a href="https://lw1995.github.io/js-Swiper/" target="_blank">预览</a></div>
-先引入css文件swiper.css
+*先引入css文件swiper.css
 
-然后再引入js文件swiper.js
-JS代码：
+*然后再引入js文件swiper.js
+*JS代码：
 		<script type="text/javascript">
 			new Swiper({
 				width: 1200, //宽度
@@ -13,7 +13,7 @@ JS代码：
 				showSwiperBtn: true //是否显示导航按钮
 			});
 		</script>
-HTML代码：
+*HTML代码：
 	<div class="swiper-container" id="swiper-container">
 			<div id="swiper-wrapper">
 				<a href="http://pic1.win4000.com/wallpaper/2019-08-26/5d63a0b14ad1c.jpg" target="_blank">
