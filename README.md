@@ -4,7 +4,7 @@
 ### 先引入css文件swiper.css
 
 <pre>
-  <link rel="stylesheet" type="text/css" href="css/swiper.css" />
+  “<link rel="stylesheet" type="text/css" href="css/swiper.css" />”
 </pre>
 
 ### 然后再引入js文件swiper.js
@@ -30,8 +30,7 @@
 ### HTML代码：
 
 <pre>
-    <code>
-        	<div class="swiper-container" id="swiper-container">
+“        	<div class="swiper-container" id="swiper-container">
 			<div id="swiper-wrapper">
 				<a href="http://pic1.win4000.com/wallpaper/2019-08-26/5d63a0b14ad1c.jpg" target="_blank">
 					<img src="http://pic1.win4000.com/wallpaper/2019-08-26/5d63a0b14ad1c.jpg" />
@@ -51,8 +50,7 @@
 			<div id="swiper-Btn"></div>
 			<!-- 面板指示点 -->
 			<div id="swiper-dots"></div>
-		</div>
-    </code>
+		</div>”
 </pre>
 
 
